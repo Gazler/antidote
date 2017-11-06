@@ -29,7 +29,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/antidote](https://hexdocs.pm/antidote).
 
-## Benchmars
+## Benchmarks
 
 Benchmarks against most popular Elixir & Erlang json libraries can be executed
 with `mix bench encode` and `mix bench decode`.
